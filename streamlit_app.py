@@ -26,7 +26,7 @@ page = st.sidebar.selectbox("Select Page",["Introduction ğŸ“˜","Visualization ğŸ
 
 #st.video("video.mp4")
 
-st.image("house2.png")
+st.image("images.jpeg")
 
 st.write("   ")
 st.write("   ")
